@@ -1,0 +1,19 @@
+.custom-image img {
+    display: flex;
+    box-shadow: 3px 1px 13px 10px #bbadad;
+  }
+  .custom-card {
+    padding: 10px 16px;
+    
+  }
+  .custom-card p {
+    color: rgb(121, 121, 121);
+   
+  }
+  .COURSES{
+      display: block;
+      margin-left: -260px;
+  }
+  .CARD{
+      display: flex;
+  }
